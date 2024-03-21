@@ -1,0 +1,233 @@
+{
+    "comidas":[
+        {
+            "id":1,
+            "nombre": "Lentejas con huevo",
+            "tipo_plato": "segundo",
+            "tipo_comida": "menestra",
+            "presa":"huevo",
+            "con_ensalada": true
+        },
+        {
+           "id":2,
+            "nombre": "alverjita partida con pollo",
+            "tipo_plato": "segundo",
+            "tipo_comida": "menestra" ,
+            "presa":"pollo",
+            "con_ensalada": true
+        },
+        {
+            "id":3,
+            "nombre": "quinua con huevo",
+            "tipo_plato": "segundo",
+            "tipo_comida": "menestra",
+            "presa":"huevo",
+            "con_ensalada": false
+        },
+        {
+            "id":4,
+            "nombre": "cau cau",
+            "tipo_plato": "segundo",
+            "tipo_comida": "salado",
+            "presa":"mondongo",
+            "con_ensalada": false
+        },
+        {
+            "id":5,
+            "nombre": "seco de pollo",
+            "tipo_plato": "segundo",
+            "tipo_comida": "salado",
+            "presa":"pollo",
+            "con_ensalada": false 
+        },
+        {
+            "id":6,
+            "nombre": "arroz con pollo",
+            "tipo_plato": "segundo",
+            "tipo_comida": "salado",
+            "presa":"pollo",
+            "con_ensalada": true 
+        },
+        {
+            "id":7,
+            "nombre": "arroz chaufa",
+            "tipo_plato": "segundo",
+            "tipo_comida": "salado",
+            "presa":"pollo",
+            "con_ensalada": false
+        },
+        {
+            "id":8,
+            "nombre": "pavita con pure de manzana",
+            "tipo_plato": "segundo",
+            "tipo_comida": "salado,dulce",
+            "presa":"pava",
+            "con_ensalada": false
+        },
+        {
+            "id":9,
+            "nombre": "pavita con ensalada rusa",
+            "tipo_plato": "segundo",
+            "tipo_comida": "salado",
+            "presa":"pava",
+            "con_ensalada": true
+        },
+        {
+            "id":10,
+            "nombre": "tallarines rojos con pollo",
+            "tipo_plato": "segundo",
+            "tipo_comida": "salado",
+            "presa":"pollo",
+            "con_ensalada": false
+        },
+        {
+            "id":11,
+            "nombre": "estofado de pollo",
+            "tipo_plato": "segundo",
+            "tipo_comida": "salado",
+            "presa":"pollo",
+            "con_ensalada": false
+        },
+        {
+            "id":12,
+            "nombre": "escabeche de pollo",
+            "tipo_plato": "segundo",
+            "tipo_comida": "salado,picante",
+            "presa":"pollo",
+            "con_ensalada": false
+        },
+        {
+            "id":13,
+            "nombre": "tallarines verdes",
+            "tipo_plato": "segundo",
+            "tipo_comida": "salado" ,
+            "presa":"huevo",
+            "con_ensalada": false
+        },
+        {
+            "id":14,
+            "nombre": "pachamanca a la olla",
+            "tipo_plato": "segundo",
+            "tipo_comida": "salado" ,
+            "presa":"pollo",
+            "con_ensalada": false
+        },
+        {
+            "id":15,
+            "nombre": "mondonguito italiano",
+            "tipo_plato": "segundo",
+            "tipo_comida": "salado,dulce" ,
+            "presa":"mondongo",
+            "con_ensalada": false
+        },
+        {
+            "id":16,
+            "nombre": "pure de papa con asado de pavita",
+            "tipo_plato": "segundo",
+            "tipo_comida": "salado",
+            "presa":"pava",
+            "con_ensalada": false
+        },
+        {
+            "id":17,
+            "nombre": "guiso de fideo",
+            "tipo_plato": "segundo",
+            "tipo_comida": "salado",
+            "presa":"pollo",
+            "con_ensalada": false 
+        },
+        {
+            "id":18,
+            "nombre": "pollo plancha con ensalada",
+            "tipo_plato": "segundo",
+            "tipo_comida": "salado",
+            "presa":"pollo",
+            "con_ensalada": true
+        },
+        {
+            "id":19,
+            "nombre": "lomo saltado",
+            "tipo_plato": "segundo",
+            "tipo_comida": "salado",
+            "presa":"carne",
+            "con_ensalada": false 
+        },
+        {
+            "id":20,
+            "nombre": "ceviche de pollo",
+            "tipo_plato": "segundo",
+            "tipo_comida": "salado,picante",
+            "presa":"pollo",
+            "con_ensalada": false
+        },
+        {
+            "id":21,
+            "nombre": "atomatado",
+            "tipo_plato": "segundo",
+            "tipo_comida": "salado" ,
+            "presa":"carne",
+            "con_ensalada": false
+        },
+        {
+            "id":22,
+            "nombre": "olluco",
+            "tipo_plato": "segundo",
+            "tipo_comida": "salado" ,
+            "presa":"carne",
+            "con_ensalada": false
+        },
+        {
+            "id":23,
+            "nombre": "picante de carne",
+            "tipo_plato": "segundo",
+            "tipo_comida": "salado",
+            "presa":"carne",
+            "con_ensalada": false 
+        },
+        {
+            "id":24,
+            "nombre": "locro de zapallo",
+            "tipo_plato": "segundo",
+            "tipo_comida": "salado,dulce" ,
+            "presa":"huevo",
+            "con_ensalada": false
+        },
+        {
+            "id":25,
+            "nombre": "arroz tapado",
+            "tipo_plato": "segundo",
+            "tipo_comida": "salado" ,
+            "presa":"carne,huevo",
+            "con_ensalada": false
+        },
+        {
+            "id":26,
+            "nombre": "brocoli arrebosado",
+            "tipo_plato": "segundo",
+            "tipo_comida": "salado" ,
+            "presa":"huevo",
+            "con_ensalada": true
+        },
+        {
+            "id":27,
+            "nombre": "saltado de atún",
+            "tipo_plato": "segundo",
+            "tipo_comida": "salado",
+            "presa":"atún",
+            "con_ensalada": false 
+        },
+        {
+            "id":28,
+            "nombre": "pollo al sillau",
+            "tipo_plato": "segundo",
+            "tipo_comida": "salado" ,
+            "presa":"pollo",
+            "con_ensalada": false
+        }
+
+    ],
+    "profile":{
+        "name":"ribuhub25"
+    }
+
+}
